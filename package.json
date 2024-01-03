@@ -1,0 +1,16 @@
+{
+  "name": "async-landing-mario",
+  "version": "1.0.0",
+  "description": "un proyecto de la plataforma platzi en el que se hace uso de el asincronismo en js",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-page -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^6.1.1"
+  }
+
+}
